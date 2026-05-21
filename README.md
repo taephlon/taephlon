@@ -138,9 +138,9 @@ Currently exploring:
 
 ## 🌐 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your.email@example.com
+- GitHub: https://github.com/taephlon
+- LinkedIn: https://linkedin.com/in/envr
+- Email: enver.avisena@gmail.com
 
 ---
 
