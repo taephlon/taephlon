@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### A.K.A David Gorbon
-
 Linux Sysadmin • Kernel Developer • Infrastructure Engineer • Low-Level Programmer
 
 </div>
