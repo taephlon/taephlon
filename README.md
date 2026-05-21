@@ -45,15 +45,17 @@ I enjoy working close to the hardware and building things that are:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
+![Go](https://img.shields.io/badge/Go-FAFAFA?style=for-the-badge&logo=go)
 
 ### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![NAPALM](https://img.shields.io/badge/NAPALM-FAFAFA?style=for-the-badge&logo=napalm)
 
 ### Kernel & Networking
 - Linux Kernel Modules
