@@ -37,6 +37,9 @@ I enjoy working close to the hardware and building things that are:
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-EE0000?style=for-the-badge&logo=freebsd)
+![Redhat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat)
+![Debian](https://img.shields.io/badge/Debian-CE0056?style=for-the-badge&logo=debian)
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
@@ -44,6 +47,7 @@ I enjoy working close to the hardware and building things that are:
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
 
 ### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -96,11 +100,11 @@ I enjoy working close to the hardware and building things that are:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=taephlon&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=taephlon&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taephlon&layout=compact&theme=tokyonight)
 
 </div>
 
