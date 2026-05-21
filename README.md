@@ -1,7 +1,7 @@
 # Hi there, I'm Enver Avisena 👋
 
 <div align="center">
-
+#Enthusiast on:
 Linux Sysadmin • Kernel Developer • Infrastructure Engineer • Low-Level Programmer
 
 </div>
