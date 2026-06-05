@@ -97,21 +97,6 @@ I enjoy working close to the hardware and building things that are:
 - Distributed Job Scheduler
 - High Performance HTTP Server
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=taephlon&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=taephlon&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taephlon&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
