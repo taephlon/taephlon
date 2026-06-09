@@ -3,7 +3,7 @@
 ## Enthusiast on:
 <div align="center">
 
-Linux System Administrator • Kernel Developer • Infrastructure Engineer • Low-Level Programmer
+**Linux System Administrator** • Kernel Developer • Infrastructure Engineer • Low-Level Programmer
 
 </div>
 
