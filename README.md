@@ -70,39 +70,10 @@ I enjoy working close to the hardware and building things that are:
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Linux Kernel Projects
-- Custom Kernel Modules
-- eBPF Monitoring Tools
-- Syscall Tracer
-- Kernel Debugging Toolkit
-- Linux Security Modules
-
-### 🔹 Infrastructure Projects
-- HA Infrastructure Labs
-- Kubernetes Deployment Automation
-- Infrastructure as Code
-- Multi-Distro Server Provisioning
-
-### 🔹 Networking Projects
-- RDMA Benchmarking Suite
-- High Performance Packet Analyzer
-- Custom Load Balancer
-- Network Monitoring Tools
-
-### 🔹 Systems Programming
-- Toy Operating System
-- Custom Container Runtime
-- Distributed Job Scheduler
-- High Performance HTTP Server
-
-
 ## 🎯 Current Focus
 
 - Linux Kernel Internals
 - Rust for Systems Programming
-- RDMA & High Performance Computing
 - Infrastructure Automation
 - Distributed Systems Engineering
 - Performance Observability
