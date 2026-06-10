@@ -15,7 +15,6 @@ I'm a Linux enthusiast focused on:
 
 - Linux Kernel Development
 - Infrastructure Engineering
-- RDMA & High Performance Networking
 - Kernel Hacking & Debugging
 - Systems Programming
 - Infrastructure Automation
@@ -61,7 +60,6 @@ I enjoy working close to the hardware and building things that are:
 ### Kernel & Networking
 - Linux Kernel Modules
 - eBPF
-- RDMA / InfiniBand
 - TCP/IP Internals
 - Kernel Debugging
 - Performance Tuning
