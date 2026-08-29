@@ -1,107 +1,267 @@
-# Hi there, I'm Enver Avisena 👋
+# Hi, I'm Enver Avisena 👋
 
-## Enthusiast on:
-<div align="center">
+### Systems & Infrastructure Engineering Enthusiast
 
-**Linux System Administrator** • Kernel Developer • Infrastructure Engineer • Low-Level Programmer
+I’m a student passionate about **Linux, systems programming, networking, and computer infrastructure**.
 
-</div>
+My interests sit close to the operating system and hardware layer, where I enjoy understanding how systems work internally and building software that is **efficient, reliable, observable, and maintainable**.
 
----
-
-## 🚀 About Me
-
-I'm a Linux enthusiast focused on:
-
-- Linux Kernel Development
-- Infrastructure Engineering
-- Kernel Hacking & Debugging
-- Systems Programming
-- Infrastructure Automation
-- Distributed Systems
-- Performance Optimization
-
-I enjoy working close to the hardware and building things that are:
-- fast
-- stable
-- scalable
-- observable
-- production-oriented
+> **I learn by building, breaking, debugging, and rebuilding systems.**
 
 ---
 
-## 🛠 Tech Stack
+## 🧭 About Me
+
+My primary interests are:
+
+* 🐧 Linux systems and administration
+* ⚙️ Systems programming
+* 🔬 Linux kernel internals
+* 🌐 Networking and TCP/IP
+* 🧩 eBPF and kernel observability
+* 🏗️ Infrastructure engineering
+* 📊 Performance monitoring and optimization
+* 🔧 Automation and developer tooling
+
+Rather than only learning technologies through tutorials, I try to understand them by **building working systems and investigating how they behave underneath**.
+
+Some of my work involves Linux daemons, networking, firewalls, system monitoring, kernel interfaces, and low-level programming.
+
+---
+
+## 🚀 Featured Work
+
+### 🐧 Linux Systems
+
+I build and experiment with Linux software to understand how operating systems behave at the system level.
+
+Areas I've worked with include:
+
+* Linux daemon/service development
+* Process and signal management
+* System calls
+* Resource monitoring
+* Filesystems and system interfaces
+* Service management
+* Linux debugging
+
+### 🔥 Networking & Infrastructure
+
+My networking interests extend from traditional network administration into the Linux networking stack.
+
+I've worked with:
+
+* TCP/IP
+* Linux networking
+* Firewalls
+* Packet filtering
+* Network services
+* Infrastructure automation
+* Network configuration and monitoring
+
+### 🔬 Kernel & eBPF
+
+I'm particularly interested in understanding Linux from inside the kernel.
+
+Current experimentation includes:
+
+* eBPF tracepoints
+* Kprobes
+* Kernel event collection
+* Ring buffers
+* BPF program testing
+* Kernel debugging
+* System-call tracing
+* Performance observability
+
+I'm especially interested in how eBPF can be used to observe production systems without requiring invasive changes to applications or the kernel.
+
+---
+
+## 🛠️ Technical Skills
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
-![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-EE0000?style=for-the-badge&logo=freebsd)
-![Redhat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat)
-![Debian](https://img.shields.io/badge/Debian-CE0056?style=for-the-badge&logo=debian)
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFDE57)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
-![Go](https://img.shields.io/badge/Go-FAFAFA?style=for-the-badge&logo=go)
+**Linux**
+
+* Gentoo
+* Debian
+* Ubuntu
+* Red Hat Enterprise Linux
+* openSUSE
+
+**Other**
+
+* FreeBSD
+
+### Systems Programming
+
+* C
+* Rust
+* C++
+* Bash
+* Python
+* Go
 
 ### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![NAPALM](https://img.shields.io/badge/NAPALM-FAFAFA?style=for-the-badge&logo=napalm)
 
-### Kernel & Networking
-- Linux Kernel Modules
-- eBPF
-- TCP/IP Internals
-- Kernel Debugging
-- Performance Tuning
-- Syscall Tracing
-- Virtualization
+* Docker
+* Kubernetes
+* Ansible
+* Git
+* NAPALM
 
----
+### Kernel & Low-Level
 
-## 🎯 Current Focus
-
-- Linux Kernel Internals
-- Rust for Systems Programming
-- Infrastructure Automation
-- Distributed Systems Engineering
-- Performance Observability
+* Linux Kernel Modules
+* eBPF
+* Tracepoints
+* Kprobes
+* Syscall tracing
+* Kernel debugging
+* Performance analysis
+* Virtualization
+* TCP/IP internals
 
 ---
 
-## 📚 Learning
+## 📊 Systems Observability
 
-Currently exploring:
-- Linux Scheduler Internals
-- eBPF Ecosystem
-- KVM & Virtualization
-- Kernel Memory Management
-- Low Latency Networking
-- Advanced Kubernetes Architecture
+I'm interested in making systems not only functional, but also **measurable and understandable**.
+
+Technologies and concepts I've explored include:
+
+* eBPF
+* Linux tracing
+* Ring buffers
+* Prometheus
+* System metrics
+* Performance monitoring
+* Event-driven observability
+
+My goal is to understand systems through **evidence and measurement rather than assumptions**.
+
+---
+
+## 🔭 Currently Exploring
+
+I'm currently going deeper into:
+
+* Linux scheduler internals
+* Kernel memory management
+* eBPF internals and ecosystem
+* KVM and virtualization
+* Low-latency networking
+* Rust for systems programming
+* Advanced Kubernetes architecture
+* Distributed systems
+* Linux performance engineering
+
+---
+
+## 🧪 How I Learn
+
+My approach to learning systems engineering is heavily project-based.
+
+I generally follow a cycle of:
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Measure
+  ↓
+Understand
+  ↓
+Improve
+```
+
+I believe that working through failures is one of the most effective ways to understand complex systems.
+
+---
+
+## 📚 Areas of Long-Term Interest
+
+I'm particularly interested in the intersection of:
+
+```text
+Operating Systems
+       │
+       ├── Linux Kernel
+       │
+       ├── Systems Programming
+       │
+       └── Virtualization
+              │
+              ▼
+        Infrastructure
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+   Networking     Observability
+       │             │
+       └──────┬──────┘
+              ▼
+       Distributed Systems
+```
+
+Ultimately, I want to develop a deeper understanding of how modern computing infrastructure works—from low-level operating-system mechanisms to large-scale distributed systems.
+
+---
+
+## 🎓 Academic Direction
+
+I plan to pursue undergraduate study in a field related to:
+
+* Computer Science
+* Computer Engineering
+* Systems Engineering
+* Networking
+* Infrastructure Engineering
+
+I'm particularly interested in university environments where I can combine **theoretical computer science with practical systems engineering**.
+
+My long-term goal is to work on the infrastructure that makes modern computing systems reliable, scalable, and observable.
+
+---
+
+## 📂 Projects
+
+Most of my projects are experiments and practical implementations designed to help me understand systems engineering concepts.
+
+Some areas represented in my repositories include:
+
+* Linux daemons
+* Server monitoring
+* Firewall development
+* Systems programming
+* Linux administration
+* Networking experiments
+* eBPF experiments
+* Infrastructure automation
+
+👉 **Explore my repositories:**
+https://github.com/taephlon
 
 ---
 
 ## 🌐 Connect
 
-- GitHub: https://github.com/taephlon
-- LinkedIn: https://linkedin.com/in/envr
-- Email: enver.avisena@gmail.com
+* **GitHub:** https://github.com/taephlon
+* **LinkedIn:** https://linkedin.com/in/envr
+* **Email:** [enver.avisena@gmail.com](mailto:enver.avisena@gmail.com)
 
 ---
 
-<div align="center">
+## ⚡ Philosophy
 
-### "Talk is cheap. Show me the code."
+> Build it. Break it. Debug it. Understand it.
 
-— Linus Torvalds
+I don't want to simply learn how to use systems.
 
-</div>
+**I want to understand how they work.**
