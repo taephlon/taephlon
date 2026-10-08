@@ -19,7 +19,6 @@ My primary interests are:
 * 🔬 Linux kernel internals
 * 🌐 Networking and TCP/IP
 * 🧩 eBPF and kernel observability
-* 🏗️ Infrastructure engineering
 * 📊 Performance monitoring and optimization
 * 🔧 Automation and developer tooling
 
